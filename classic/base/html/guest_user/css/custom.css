@@ -1,0 +1,5 @@
+:root #content > #right > .dose > .dosesingle,
+:root #content > #center > .dose > .dosesingle
+{ 
+  display: none !important; 
+}
